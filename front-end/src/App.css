@@ -1,0 +1,52 @@
+.bg-blue-custom {
+  background: #61dafb;
+}
+
+.nav-titulo {
+  padding: 0 1em;
+}
+
+.area-botoes {
+  text-align: right;
+  margin-bottom: 0;
+}
+
+div.area-botoes div div button {
+  margin-right: 1em;
+}
+
+footer.rodape div div ul li {
+  background-color: lightblue;
+}
+
+footer.rodape div div ul li label {
+  color: black;
+}
+
+.titulo-pagina {
+  cursor: default;
+}
+
+.area-produto {
+  justify-content: center;
+  align-items: center;
+  cursor: default;
+}
+
+.area-produto-botao {
+  text-align: end;
+  padding: 0;
+}
+
+.area-index {
+  text-align: center;
+  padding: 0;
+}
+
+.area-produto-dados {
+  border-left: 1px solid black;
+}
+
+.nav-item {
+  margin: .1rem;
+}
